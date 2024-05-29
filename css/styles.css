@@ -12,9 +12,8 @@ body{
     align-items: center;
     background-color: rgb(206,214,240);
 }
-/* main{
-    background-color: blue;
-} */
+
+
 .sec{
     margin: 7% 100px;
     background-color: white;
@@ -86,4 +85,5 @@ p{
 
 .tour{
     padding-left: 30px;
+
 }
