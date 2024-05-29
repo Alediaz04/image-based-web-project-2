@@ -4,7 +4,6 @@
 *{
     font-family: "Roboto", sans-serif;
     
-   
 }
 body{
     display: flex;
@@ -20,6 +19,7 @@ body{
     border: 1px solid #ccc;
     border-radius: 15px;
 }
+
 .services{
     display: flex;
     justify-content: center;
@@ -38,6 +38,7 @@ body{
     font-weight: 900;
     color: rgb(3, 3, 82);
 }
+
 .with{
      display: flex;
     justify-content: center; 
@@ -48,6 +49,7 @@ body{
 
 
 }
+
 .flexi{
     display: flex;
     flex-direction: row;
@@ -56,6 +58,7 @@ body{
     margin: 40px 140px 50px 140px;
     
 } 
+
 h1{
     font-size: 15px;
     color: blue;
@@ -85,5 +88,5 @@ p{
 
 .tour{
     padding-left: 30px;
-
+    
 }
